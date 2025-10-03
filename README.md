@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Aniket 👋</h1>
-<p align="center"><b>Exploring Technology &lt;/&gt; | Building Ideas 💡</b></p>
+<p align="center"><b>Exploring Technology &lt;/&gt; Building Ideas </b></p>
 
 ---
 
