@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,4,7,12&height=2"/>
 </p>
 
-<h2 align="center">💻 Exploring Technology &lt;/&gt; | Building Ideas 💡</h2>
+<h3 align="center">💻 Exploring Technology &lt;/&gt; | Building Ideas 💡</h3>
 
 ---
 
@@ -25,13 +25,13 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Design-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-  <img src="https://img.shields.io/badge/Tool-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Interest-AI%20%26%20Startups-orange?style=for-the-badge">
-</p>
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" style="width:170px;height:32px;max-width:100%;margin:4px;">
+  <img src="https://img.shields.io/badge/Design-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" style="width:170px;height:32px;max-width:100%;margin:4px;">
+  <img src="https://img.shields.io/badge/Tool-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" style="width:170px;height:32px;max-width:100%;margin:4px;">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-success?style=for-the-badge" style="width:170px;height:32px;max-width:100%;margin:4px;">
+  <img src="https://img.shields.io/badge/Interest-AI%20%26%20Startups-orange?style=for-the-badge" style="width:170px;height:32px;max-width:100%;margin:4px;">
+</div>
 
 ---
 
