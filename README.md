@@ -20,7 +20,7 @@
 💡 Passionate about **coding**, **technology**, and **creative problem-solving**.  
 👨‍💻 Currently learning **JavaScript**, diving into **Web Development**, **Competitive Programming**, and **AI**.  
 ✨ Skilled in *Canva* & *Photoshop* for design and creativity.  
-🚀 Aspiring to build my **own startup** someday and contribute to impactful tech innovations.
+🚀 Aspiring to build my **own startup** and contribute to impactful tech innovations.
 
 ---
 
