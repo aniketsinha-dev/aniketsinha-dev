@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,4,7,12&height=2"/>
 </p>
 
-<h1 align="center">💻 Exploring Technology &lt;/&gt; | Building Ideas 💡</h1>
+<h2 align="center">💻 Exploring Technology &lt;/&gt; | Building Ideas 💡</h2>
 
 ---
 
