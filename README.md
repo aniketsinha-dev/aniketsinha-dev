@@ -50,19 +50,31 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketsinha-dev&show_icons=true&theme=react&title_color=00C2FF&icon_color=00C2FF&hide_border=true&bg_color=0D1117" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinha-dev&theme=react&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha-dev&layout=compact&theme=react&title_color=00C2FF&hide_border=true&bg_color=0D1117" height="165">
+</p>
+
+---
+
 ### 📫 Connect With Me
 <p align="center">
   <a href="mailto:contactaniketsinha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
   <a href="https://www.linkedin.com/in/aniketsinha-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://x.com/aniketsinha_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-181717?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
   <a href="https://github.com/aniketsinha-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </p>
 
