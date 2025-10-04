@@ -1,14 +1,13 @@
 <!-- 🚀 Aniket Sinha's Animated GitHub Profile README -->
 
-<!-- 🧠 Hero Banner -->
+<!-- 🧠 Gradient Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aniket+Sinha+👋;First+Year+B.Tech+CSE+Student+%40+GGU;Passionate+Coder+%7C+Web+Developer+%7C+AI+Learner;Welcome+to+my+GitHub+Profile+🚀" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aniket+Sinha+👋;First+Year+B.Tech+CSE+Student+%40+GGU;Passionate+Coder+%7C+Web+Developer+%7C+AI+Learner;Welcome+to+my+GitHub+Profile+🚀" alt="Typing animation">
 </p>
 
-<!-- 🧑‍💻 Coding GIF -->
+<!-- 🎨 Gradient Divider -->
 <p align="center">
-  <!-- Replace this link with your uploaded GIF's raw link -->
-  <img src="https://raw.githubusercontent.com/aniketsinha-dev/aniketsinha-dev/main/assets/coding.gif" width="65%" alt="coding-gif">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,4,7,12&height=2"/>
 </p>
 
 <h1 align="center">💻 Exploring Technology &lt;/&gt; | Building Ideas 💡</h1>
@@ -46,7 +45,7 @@
 
 ### ⚡ Developer Vibes
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=💻+Coding+My+Dreams+Into+Reality;🚀+Exploring+Web+and+AI;🎯+Aiming+to+Become+a+Top+Software+Developer;🤝+Let's+Connect+and+Build+Together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=💻+Coding+My+Dreams+Into+Reality;🚀+Exploring+Web+and+AI;🎯+Aiming+to+Become+a+Top+Software+Developer;🤝+Let's+Connect+and+Build+Together!" alt="Developer typing animation">
 </p>
 
 ---
@@ -73,7 +72,7 @@
   <i>“Code. Learn. Build. Repeat.”</i> 💫  
 </p>
 
-<!-- 🌊 Animated Wave Footer -->
+<!-- 🌊 Smooth Gradient Animated Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,3,4,7,12&section=footer"/>
 </p>
