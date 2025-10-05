@@ -18,7 +18,7 @@
 🎓 **First Year B.Tech CSE Student** @ *Guru Ghasidas University, Bilaspur*  
 
 💡 Passionate about **coding**, **technology**, and **creative problem-solving**.  
-👨‍💻 Currently learning **JavaScript**, diving into **Web Development**, **Competitive Programming**, and **AI**.  
+🧑‍💻 Currently learning **JavaScript**, diving into **Web Development**, **Competitive Programming**, and **AI**.  
 ✨ Skilled in *Canva* & *Photoshop* for design and creativity.  
 🚀 Aspiring to build my **own startup** and contribute to impactful tech innovations.
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniketsinha-dev&show_icons=true&theme=react&title_color=00C2FF&icon_color=00C2FF&hide_border=true&bg_color=0D1117" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinha-dev&theme=react&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" height="165">
